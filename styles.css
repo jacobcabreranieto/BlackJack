@@ -1,0 +1,23 @@
+h1 {
+  color: #d99c13;
+  font-style: italic;
+}
+body {
+  background-color: #005a39;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+}
+button {
+  background-color: #d99c13;
+  padding: 1rem 3rem;
+  color: #005a39;
+  margin-bottom: 1rem;
+}
